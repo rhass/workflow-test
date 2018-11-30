@@ -1,0 +1,9 @@
+server = "a2-dev.test"
+api_protocol = "https"
+user = "admin"
+enterprise = "automate"
+organization = "test-org"
+git_port = "8989"
+pipeline = "master"
+saml = true
+a2_mode = true

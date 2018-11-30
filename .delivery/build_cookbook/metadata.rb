@@ -1,0 +1,6 @@
+name 'build_cookbook'
+maintainer 'Ryan Hass'
+maintainer_email 'ryan@invalidchecksum.net'
+license 'apachev2'
+version '0.1.0'
+chef_version '>= 13.0'
